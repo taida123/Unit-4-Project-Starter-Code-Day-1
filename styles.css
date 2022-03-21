@@ -1,0 +1,14 @@
+img {
+    height: 200px;   
+}
+
+.parent-div {
+ background-image: url("https://wallpaperaccess.com/full/5585319.jpg"); 
+   justify-content: center;
+    
+    
+}
+.mha {
+    justify-content: center;
+    display: flex;
+}
